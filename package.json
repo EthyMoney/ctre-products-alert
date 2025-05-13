@@ -1,0 +1,17 @@
+{
+  "name": "ctr-products-watcher",
+  "version": "1.0.0",
+  "description": "Bot to monitor stock of items on CTRE website and alert when something goes into stock.",
+  "license": "MIT",
+  "author": "Logan - EthyMoney",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "jsdom": "^26.1.0"
+  }
+}

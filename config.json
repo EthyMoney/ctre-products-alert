@@ -1,0 +1,11 @@
+{
+  "checkIntervalMs": 60000,
+  "slack": {
+    "enableBot": true,
+    "token": "",
+    "channelName": "product-alerts"
+  },
+  "productUrl": "https://store.ctr-electronics.com/products/kraken-x44",
+  "productName": "Kraken X44",
+  "productImage": "https://store.ctr-electronics.com/cdn/shop/files/Kraken_X44_brushless_motor_powered_by_Talon_FX_4.png"
+}
